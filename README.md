@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/YH059Uj' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/mohamedrachid8892/HelloWorld/blob/master/HelloWorld_app.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 GIF created with LICEcap
